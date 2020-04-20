@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Olympic</string>
+    <string name="title_activity_detail_user">DetailUser</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_log_in_user">LogInUser</string>
+    <string name="title_activity_sign_up_user">SignUpUser</string>
+    <string name="title_activity_login_2">login_activity_2</string>
 </resources>
